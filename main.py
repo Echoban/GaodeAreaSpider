@@ -7,4 +7,4 @@ import json
 # 获取高德地区数据
 from GaoDeArea import GetData
 
-GetData.get_data("重庆", "3")
+GetData.get_data("重庆", "2")
