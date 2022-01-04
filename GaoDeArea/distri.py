@@ -1,0 +1,3 @@
+class distri:
+    value = ""
+    list = []
